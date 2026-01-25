@@ -16,10 +16,18 @@ public class Test {
     System.out.println("The diff is " +result1);
     
   }
+static void mul(){
 
+    int c=20;
+    int d=10;
+    int result2 = c*d;
+    System.out.println("The product is " +result2);
+    
+  }
   public static void main(String[] args)
   {
     add();
     sub();
+    mul();
   }
 }
