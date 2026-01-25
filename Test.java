@@ -24,19 +24,11 @@ static void mul(){
     System.out.println("The product is " +result2);
     
   }
-  static void div(){
-
-    int c=20;
-    int d=10;
-    int result3 = c/d;
-    System.out.println("The division is " +result3);
-    
-  }
+  
   public static void main(String[] args)
   {
     add();
     sub();
     mul();
-    div();
   }
 }
