@@ -14,7 +14,7 @@ public class Test {
     int d=10;
     int result1 = c-d;
     System.out.println("The diff is " +result1);
-    
+    System.out.println("Hello World");
   }
 static void mul(){
 
