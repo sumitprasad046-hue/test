@@ -22,7 +22,7 @@ static void mul(){
     int d=10;
     int result2 = c*d;
     System.out.println("The product is " +result2);
-    System.out.println("hello worlfd");
+    
     
     
   }
